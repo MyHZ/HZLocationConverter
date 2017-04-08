@@ -7,8 +7,6 @@
 //
 
 #import "HZLocationConverter.h"
-#import <math.h>
-#import <UIKit/UIGeometry.h>
 
 static const double a = 6378245.0;
 static const double ee = 0.00669342162296594323;

@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
+#import <math.h>
+#import <UIKit/UIGeometry.h>
 
 @interface HZLocationConverter : NSObject
 
