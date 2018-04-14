@@ -1,7 +1,14 @@
-说明：
+#### Cocoapods支持
 
-提供几种常见的坐标转换方式
 
+```
+pod 'HZLocationConverter'
+```
+
+
+---
+
+#### 常见的坐标转换方式
 ```
 /**
  *  判断是否在中国
@@ -28,11 +35,12 @@
  */
 +(CLLocationCoordinate2D)transformFromBaiduToGCJ:(CLLocationCoordinate2D)p;
 ```
+---
 
-原文件地址：
+- 项目地址
 
 https://github.com/MyHZ/HZLocationConverter
 
-CocoaPods支持：
+- Demo地址
 
-pod 'HZLocationConverter'
+https://github.com/MyHZ/HZLocationConverterExample
