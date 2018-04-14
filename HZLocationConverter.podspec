@@ -113,7 +113,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-   s.frameworks = "UIKit", "CoreLocation","math","Foundation"
+   s.frameworks = "UIKit", "CoreLocation","Foundation"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
