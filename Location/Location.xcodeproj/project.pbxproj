@@ -45,6 +45,7 @@
 		82BF27721E987D14009EC4DA = {
 			isa = PBXGroup;
 			children = (
+				CEA59C342081A6C4009D3BC9 /* HZLocationConverter */,
 				82BF277D1E987D14009EC4DA /* Location */,
 				82BF277C1E987D14009EC4DA /* Products */,
 			);
@@ -65,8 +66,6 @@
 				82BF27821E987D14009EC4DA /* AppDelegate.m */,
 				82BF27841E987D14009EC4DA /* ViewController.h */,
 				82BF27851E987D14009EC4DA /* ViewController.m */,
-				82BF27951E987D2D009EC4DA /* HZLocationConverter.h */,
-				82BF27961E987D2D009EC4DA /* HZLocationConverter.m */,
 				82BF27871E987D14009EC4DA /* Main.storyboard */,
 				82BF278A1E987D14009EC4DA /* Assets.xcassets */,
 				82BF278C1E987D14009EC4DA /* LaunchScreen.storyboard */,
@@ -82,6 +81,15 @@
 				82BF277F1E987D14009EC4DA /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CEA59C342081A6C4009D3BC9 /* HZLocationConverter */ = {
+			isa = PBXGroup;
+			children = (
+				82BF27951E987D2D009EC4DA /* HZLocationConverter.h */,
+				82BF27961E987D2D009EC4DA /* HZLocationConverter.m */,
+			);
+			path = HZLocationConverter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
